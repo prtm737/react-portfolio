@@ -16,28 +16,36 @@ const Portfolio = () => {
                   <div className='shadow-2xl shadow-[#1E293B] rounded-xl'>
                       <img src={Quotes} alt="" className='rounded-xl duration-200 hover:scale-105' />
                       <div className='flex justify-center items-center'>
+                          <a href="https://random-quotes-generator-chi.vercel.app/" target="_blank">
                           <button className='px-6 py-3 m-4 duration-200 hover:scale-105 font-bold text'>Demo</button>
+                          </a>
                       </div>
                   </div>
                  
                   <div className='shadow-2xl shadow-[#1E293B] rounded-xl'>
                       <img src={Pass} alt="" className='rounded-xl duration-200 hover:scale-105' />
                       <div className='flex justify-center items-center'>
+                          <a href="https://random-pass-generator-rho.vercel.app/" target="_blank">
                           <button className='px-6 py-3 m-4 duration-200 hover:scale-105 font-bold text'>Demo</button>
+                          </a>
                       </div>
                   </div>
                   
                   <div className='shadow-2xl shadow-[#1E293B] rounded-xl'>
                       <img src={Todo} alt="" className='rounded-xl duration-200 hover:scale-105' />
                       <div className='flex justify-center items-center'>
+                          <a href="https://to-do-list-blush-alpha.vercel.app/" target="_blank">
                           <button className='px-6 py-3 m-4 duration-200 hover:scale-105 font-bold text'>Demo</button>
+                          </a>
                       </div>
                   </div>
                   
                   <div className='shadow-2xl shadow-[#1E293B] rounded-xl'>
                       <img src={Weather} alt="" className='rounded-xl duration-200 hover:scale-105' />
                       <div className='flex justify-center items-center'>
+                          <a href="https://weather-app-omega-liart.vercel.app/" target="_blank">
                           <button className='px-6 py-3 m-4 duration-200 hover:scale-105 font-bold text'>Demo</button>
+                          </a>
                       </div>
                   </div>
                   
