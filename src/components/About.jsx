@@ -11,18 +11,19 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-10">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat
-          exercitationem necessitatibus unde ipsum repudiandae aliquid facilis,
-          obcaecati ullam error fuga quam iure soluta accusamus libero itaque
-          eligendi. Inventore, similique harum. Lorem ipsum dolor sit amet
-          consectetur adipisicing elit. Possimus repellendus reprehenderit.
+          Who Am I?
+          I am a Web Developer from India.
+          I have spent the last 4 years in a PSU working as a Network and System Administrator. 
+          I have always had a knack for technology and working with computer programs. 
+          In 2020 during the pandemic, I started working with WordPress to build a blogging site.
+          Then I started doing some minor edits in  HTML & CSS to make my WordPress site work. 
         </p>
         <br />
         <p className="text-xl mt-2 ">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui dicta
-          ipsa neque, rerum voluptatibus dolorum provident vel quae perferendis
-          eligendi iusto animi autem necessitatibus possimus amet beatae
-          voluptatum quos optio? Lorem ipsum dolor sit, amet consectetur.
+          What I thought was just a few minor edits turned into a love for programming.
+          Fascinated with how intricate programming can be I was quickly drawn to learn more. 
+          I started learning javascript and was even more enthused with making websites interactive. 
+          I am now spending my time learning Javascript and building projects with React Js, Next Js and Firebase, and learning new technologies.
         </p>
       </div>
     </div>
