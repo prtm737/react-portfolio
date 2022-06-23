@@ -47,7 +47,7 @@ const Experience = () => {
       ];
   return (
     <div name="Experience" className="w-full h-screen text-white">
-          <div className="max-w-screen-lg p-6 flex flex-col mx-auto justify-center w-full ">
+          <div className="max-w-screen-lg p-6 flex flex-col mx-auto justify-center w-full h-full ">
               <div className="pb-5">
                   <p className="text-5xl text-center text-[#4ADE80] font-bold border-b-4 border-[#1E293B]">Experiences</p>
                   <p className='py-6 text-xl text-center'>Technologies I've worked with</p>
