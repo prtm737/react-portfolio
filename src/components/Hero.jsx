@@ -14,16 +14,17 @@ const Hero = () => {
             </h1>
             <Typed
               className="lg:text-5xl md:text-4xl text-3xl font-bold md:py-3 md:pb-5 text-[#4ADE80]  "
-              strings={["a Web Developer", "a Content Creator", "a Blogger"]}
+              strings={[ "Pritom Parashar", "a Web Developer", "a Content Creator"]}
               typeSpeed={30}
-              backSpeed={50}
+              backSpeed={40}
               loop
             />
           </div>
           <p className="text-[#38AFC7] text-sm font-bold pt-2">
-            Lorem ipsum dolorebitis non sint tempore optio dolorem a assumenda
-            officiis repellat excepturi sed nobis iure adipisci voluptate
-            cupiditate?
+           Hello! I'm Pritom.
+           Web Developer from India.
+           Building Webistes,Learning new things & stay creative.
+           I'm very excited to connect with you!
           </p>
           <button
             type="button"
