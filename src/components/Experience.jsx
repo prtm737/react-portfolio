@@ -40,7 +40,13 @@ const Experience = () => {
     },
   ];
   return (
-    <div name="Experience" className="w-full h-screen mt-40 text-white">
+    <div
+      name="Experience"
+      className="w-full h-screen mt-40 text-white"
+      data-aos="zoom-in"
+      data-aos-easing="ease-in-out"
+      data-aos-duration="1000"
+    >
       <div className="max-w-screen-lg p-6 flex flex-col mx-auto justify-center w-full h-full ">
         <div className="pb-5">
           <p className="text-5xl text-center text-[#4ADE80] font-bold border-b-4 border-[#1E293B]">
